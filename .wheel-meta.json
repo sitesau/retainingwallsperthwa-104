@@ -1,0 +1,22 @@
+{
+  "wheel_id": 533,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-104",
+  "project": "retaining-walls-perth-faq-59bd0d7d629be98d0cf00222a15d57b8fdcbc",
+  "parent_t1_ref": "retainingwallsperthwa-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth faq",
+  "intended_url": "http://retaining-walls-perth-faq-59bd0d7d629be98d0cf00222a15d57b8fdcbc.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "33d765e3527bdb23",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-perth-red-flags-65d27487a24fdfe3e1764a325d27b7d/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
